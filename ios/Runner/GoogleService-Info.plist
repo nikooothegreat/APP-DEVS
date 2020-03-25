@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154489620340-tkdvi0iua3t6rasb8mgrj176ihq3gb78.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154489620340-tkdvi0iua3t6rasb8mgrj176ihq3gb78</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-HwD9HSArbTvus4E59OW0jwUFcTwxP3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154489620340</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FreeMind.flutterapp</string>
+	<key>PROJECT_ID</key>
+	<string>free-mind-13736</string>
+	<key>STORAGE_BUCKET</key>
+	<string>free-mind-13736.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154489620340:ios:c7c2eeb1d057604cc24e21</string>
+	<key>DATABASE_URL</key>
+	<string>https://free-mind-13736.firebaseio.com</string>
+</dict>
+</plist>
