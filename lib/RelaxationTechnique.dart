@@ -52,7 +52,7 @@ class _RelaxationTechniquePageState extends State<RelaxationTechnique> {
           style: TextStyle(
               color: Colors.black,
               fontFamily: 'Lobster',
-              fontSize: 35), // changing style of text on appBar
+              fontSize: 29), // changing style of text on appBar
         ),
         centerTitle: true, // centering title
         backgroundColor:
@@ -70,7 +70,7 @@ class _RelaxationTechniquePageState extends State<RelaxationTechnique> {
       body: Row(
         children: <Widget>[
           Container(
-            width: 350,
+            width: 320,
             child: Align(
               child: FlatButton(
                 onPressed: () {

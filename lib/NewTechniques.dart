@@ -112,7 +112,7 @@ class _NewTechniquesPageState extends State<NewTechniques> {
               TextSpan(
                 text: 'Choose from one of the technique categories below:',
                 style: TextStyle(
-                    color: Colors.black, fontSize: 17, fontFamily: 'Roboto'),
+                    color: Colors.black, fontSize: 15.5, fontFamily: 'Roboto'),
               ),
             ],
           ),

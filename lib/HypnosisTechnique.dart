@@ -53,7 +53,7 @@ class _HypnosisTechniquePageState extends State<HypnosisTechnique> {
           style: TextStyle(
               color: Colors.black,
               fontFamily: 'Lobster',
-              fontSize: 35), // changing style of text on appBar
+              fontSize: 29), // changing style of text on appBar
         ),
         centerTitle: true,
         // centering title
@@ -83,7 +83,7 @@ class _HypnosisTechniquePageState extends State<HypnosisTechnique> {
       body: Row(
         children: <Widget>[
           Container(
-            width: 350,
+            width: 320,
             child: Align(
               child: FlatButton(
                 onPressed: () {

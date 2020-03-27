@@ -99,7 +99,7 @@ class _UserTechniquesPageState extends State<UserTechniques> {
                 labelText: 'Enter your given number to delete your technique: ',
                 fillColor: Colors.white,
                 filled: true,
-                labelStyle: TextStyle(color: Colors.black, fontSize: 16),
+                labelStyle: TextStyle(color: Colors.black, fontSize: 14.5),
               ),
               autofocus: false,
               focusNode: _focusnode,

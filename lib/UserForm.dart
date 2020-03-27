@@ -60,7 +60,7 @@ class _UserFormState extends State<UserForm> {
           style: TextStyle(
               color: Colors.black,
               fontFamily: 'Lobster',
-              fontSize: 29), // changing style of text on appBar
+              fontSize: 26), // changing style of text on appBar
         ),
         centerTitle: true, // centering title
         backgroundColor:
@@ -100,7 +100,7 @@ class _UserFormState extends State<UserForm> {
                 labelText: 'Category of your technique (1-2 words only): ',
                 fillColor: Colors.white,
                 filled: true,
-                labelStyle: TextStyle(color: Colors.black, fontSize: 18.4),
+                labelStyle: TextStyle(color: Colors.black, fontSize: 16.3),
               ),
               autofocus: false,
               focusNode: _focusnode,
@@ -116,7 +116,7 @@ class _UserFormState extends State<UserForm> {
                 labelText: 'Enter a description of your technique here: ',
                 fillColor: Colors.white,
                 filled: true,
-                labelStyle: TextStyle(color: Colors.black, fontSize: 18.4),
+                labelStyle: TextStyle(color: Colors.black, fontSize: 17),
               ),
               autofocus: false,
               focusNode: _focusnode,
@@ -183,7 +183,7 @@ class _UserFormState extends State<UserForm> {
                       TextSpan(
                         text:
                             'Write down this number to delete your technique!\n',
-                        style: TextStyle(color: Colors.black, fontSize: 16.5),
+                        style: TextStyle(color: Colors.black, fontSize: 15),
                       ),
                       TextSpan(
                         text: timestamp.toString(),

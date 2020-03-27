@@ -52,7 +52,7 @@ class _MusicArticlePageState extends State<MusicArticle> {
           style: TextStyle(
               color: Colors.black,
               fontFamily: 'Lobster',
-              fontSize: 33), // changing style of text on appBar
+              fontSize: 29), // changing style of text on appBar
         ),
         centerTitle: true,
         // centering title
