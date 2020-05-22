@@ -29,16 +29,6 @@ class _UserFormState extends State<UserForm> {
   var TechniqueList = [];
   var timestamp = new DateTime.now().millisecond;
 
-  void _incrementCounter() {
-    setState(() {
-      // This call to setState tells the Flutter framework that something has
-      // changed in this State, which causes it to rerun the build method below
-      // so that the display can reflect the updated values. If we changed
-      // _counter without calling setState(), then the build method would not be
-      // called again, and so nothing would appear to happen.
-    });
-  }
-
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -48,8 +38,6 @@ class _UserFormState extends State<UserForm> {
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
     var _focusnode;
-    var _newreplycontroller;
-    var _textInput;
     var timestamp = new DateTime.now().millisecond;
     return Scaffold(
       appBar: AppBar(
